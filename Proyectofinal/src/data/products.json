@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Laptop HP", "price": 75000 },
+    { "id": 2, "name": "Smartphone Samsung Galaxy", "price": 50000 },
+    { "id": 3, "name": "Tablet Apple iPad", "price": 60000 },
+    { "id": 4, "name": "Monitor LG 24\"", "price": 20000 },
+    { "id": 5, "name": "Teclado Mecánico Logitech", "price": 8000 },
+    { "id": 6, "name": "Mouse Inalámbrico Microsoft", "price": 3000 },
+    { "id": 7, "name": "Auriculares Sony WH-1000XM4", "price": 25000 },
+    { "id": 8, "name": "Smartwatch Apple Watch", "price": 40000 },
+    { "id": 9, "name": "Cámara Canon EOS Rebel", "price": 85000 },
+    { "id": 10, "name": "Impresora Multifunción Epson", "price": 15000 }
+]
